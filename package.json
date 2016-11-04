@@ -1,0 +1,7 @@
+{
+  "name": "IFE-learn",
+  "version": "0.0.1",
+  "scripts": {
+    "start":"http-server -p 1111"
+  }
+}
